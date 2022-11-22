@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name='viewport' content=
+		'width=device-width, initial-scale=1.0'>
+</head>
+
+<body>
+	<div style="text-align: center;
+				background-color: green;">
+		<h1 style="color: white;">
+			Responsive Page Using Only HTML
+		</h1>
+		<h2 style="color: white;">
+			To make test responsive
+		</h2>
+		<p style="font-size: 5vw;color: white;">
+			This is for Geeks for Geeks
+		</p>
+
+		<picture>
+			<img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20190809013546/gfg_350X350.png"
+				alt="geeksforgeeks">
+		</picture>
+	</div>
+</body>
+
+</html>
