@@ -29,7 +29,7 @@ int Addition(int x,int y){
 //Step 3 : After creating Calculator app paste the below code inside CalculatorAPP.c file
 
 #include<stdio.h>
-#include"C:\Users\ajaur\OneDrive\Documents\Visual Studio 2012\Projects\CalculatorDLL\CalculatorDLL\CalculatorDLL.h"
+#include"C:\Users\AjjuBhai\OneDrive\Documents\Visual Studio 2012\Projects\CalculatorDLL\CalculatorDLL\CalculatorDLL.h"
 
 int main()
 {
